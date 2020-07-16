@@ -1,0 +1,2 @@
+# livewire-turbolinks
+livewire turbolinks
